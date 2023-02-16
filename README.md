@@ -1,4 +1,4 @@
-## star-wars-connector
+## swapi-connector
 ### Setup Instructions:
 1. **Clone the repository**
       Run `git clone <url>`
